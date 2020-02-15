@@ -14,4 +14,3 @@ repository of mit6.828
 - [ucore实验指导书](https://chyyuu.gitbooks.io/ucore_os_docs/content/)
 - [教学视频](https://www.xuetangx.com/courses/TsinghuaX/30240243X/2015_T1/about)
 
-转载请注明出处
